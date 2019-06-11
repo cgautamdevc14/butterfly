@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MothsandButterflies</folder>
+	<filename> 48.jpg</filename>
+	<path>/Users/gautamdevchowdary/internship/objectdetection/moths/flower-recognition/dataset/train/MothsandButterflies/ 48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>687</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>butterfly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>94</ymin>
+			<xmax>770</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>
